@@ -14,3 +14,6 @@ List of Software Developers
 - Linus Torvalds
 - Martin Fowler
 - Lory Wall
+- Alan Kay
+- Bjarne Stroustrup
+- Daniel
